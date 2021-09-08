@@ -8,4 +8,5 @@ sport itself.
 
 ![alt text](https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/wm.sidearmsports.com/images/2021/5/4/ragone.jpg)
 
+1.
 2. [getting started with R studio. code](https://github.com/ColeRagone/Wicked_Problems/homework1.R)
