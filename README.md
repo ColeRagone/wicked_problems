@@ -7,3 +7,5 @@ Personally, I am on the baseball team, which is by biggest passion in life. I lo
 sport itself.
 
 ![alt text](https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/wm.sidearmsports.com/images/2021/5/4/ragone.jpg)
+
+2. [getting started with R studio. code](https://github.com/ColeRagone/Wicked_Problems/blob/main/homework1.R)
